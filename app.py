@@ -33,11 +33,15 @@ acoes = [
 
 fiis = [
     "KNCR11.SA",
-    "BRCO11.SA",
+    "BTLG11.SA",
     "HGRU11.SA",
+    "HGLG11.SA",
+    "ALZR11.SA",
+    "BRCO11.SA",
+    "KNRI11.SA",
     "MXRF11.SA",
-    "XPLG11.SA",
-    "BTHF11.SA"
+    "XPML11.SA",
+    "VISC11.SA"
 ]
 
 btc = ["BTC-USD"]
