@@ -23,12 +23,33 @@ table {
 # =========================
 
 acoes = [
-    "ITUB4.SA", "BBDC4.SA", "BBAS3.SA", "SANB4.SA", "BPAC11.SA", "B3SA3.SA", "PSSA3.SA",
-    "VALE3.SA", "GOAU4.SA", "GGBR4.SA", "CMIN3.SA",
-    "ABEV3.SA", "LREN3.SA", "VIVA3.SA", "GRND3.SA",
-    "EZTC3.SA", "CURY3.SA",
-    "TOTS3.SA", "ODPV3.SA", "ITSA4.SA", "WEGE3.SA",
-    "BBSE3.SA", "CXSE3.SA", "MDIA3.SA", "SBSP3.SA"
+    "WEGE3.SA",
+    "ITUB4.SA",
+    "TOTS3.SA",
+    "BPAC11.SA",
+    "BBSE3.SA",
+    "CXSE3.SA",
+    "PSSA3.SA",
+    "ABEV3.SA",
+    "B3SA3.SA",
+    "RADL3.SA",
+    "VIVA3.SA",
+    "CURY3.SA",
+    "TIMS3.SA",
+    "MULT3.SA",
+    "ITSA4.SA",
+    "SBSP3.SA",
+    "LREN3.SA",
+    "VALE3.SA",
+    "GGBR4.SA",
+    "EZTC3.SA",
+    "BBDC4.SA",
+    "GOAU4.SA",
+    "SANB4.SA",
+    "MDIA3.SA",
+    "GRND3.SA",
+    "CMIN3.SA",
+    "BBAS3.SA"
 ]
 
 fiis = [
